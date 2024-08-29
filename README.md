@@ -1,2 +1,2 @@
-# Adele-Spotify-Analysis-
-This project provides an interactive dashboard analyzing Adele's albums (19, 21, 25, 30) using Spotify data. It visualizes metrics like track popularity, energy, danceability, and song durations, offering insights into Adele’s musical evolution.
+# Adele Spotify Analysis
+This project delivers an in-depth analysis of Adele’s albums—19, 21, 25, and 30—using Spotify data. Through detailed visualizations, the project explores key musical attributes such as track popularity, energy, danceability, and song duration. These metrics offer a comprehensive view of Adele's musical journey and the evolution of her sound across different albums.
